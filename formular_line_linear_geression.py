@@ -1,7 +1,7 @@
 import numpy as np
 import matplotlib
 import matplotlib.pyplot as plt
-
+zzzz
 A = [2,5,6,7,11,16,19,23,22,29,29,35,37,40,46]
 b = [2,3,4,5,6,7,8,9,10,11,12,13,14,15,16]
 
